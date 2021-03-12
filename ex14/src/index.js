@@ -3,7 +3,8 @@ function main() {
   var myVerb = "ran";
   var myAdjective = "big";
   var myAdverb = "quickly";
-  var wordBlanks =
+  var wordBlanks;
+  wordBlanks =
     "My " +
     myNoun +
     " can " +
