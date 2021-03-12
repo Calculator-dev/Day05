@@ -1,5 +1,5 @@
 function main() {
-  var myString = "\nFirstLine\n\tSecondLine\nThirdLine";
+  var myString = "FirstLine\n\t\\SecondLine\nThirdLine";
 
   return myString;
 }
